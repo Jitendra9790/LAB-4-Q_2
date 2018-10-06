@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab4Q_2
+namespace Lab4Q_3
 {
     public class Shape
     {
